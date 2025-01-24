@@ -1,5 +1,5 @@
 INF6027
-title: An exploratory analysis of identifying the topic of news datasets
+Profile: This research title is "An exploratory analysis of identifying the topic of news datasets". The primary goal of this research is to develop effective methods for topic identification and classification in news datasets.
 
 Findings:
 The identification of news topics: This report shows that the main topics of the news dataset includes political contents, situation of women, media and people’s lifestyle. This finding revealed that the news from 2012 to 2022 and from January 2019 to December 2019 is focus on American politics, gender equality, multimedia and people's livelihood or welfare, covering a wide range of social aspects.
